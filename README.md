@@ -20,7 +20,7 @@
 - 🎓 ESMA graduate — CG & VFX
 - 🐍 Python enthusiast — automating everything in sight
 - 🖥️ Tools of the trade: **Nuke** · **Maya** · **RenderMan** · **Houdini**
-- 🎞️ Passionate about cinematography, grain, and anamorphic glass
+- 🎞️ Passionate about cinematography, grain, and anamorphic lenses
 - 🔧 Building tools & pipelines that keep artists in the flow
 
 ---
