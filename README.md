@@ -8,3 +8,50 @@
   <br/>
   <sub>ESMA Family, i love grain, anamorphic lenses, motion blur & Python overkilled automations.</sub>
   <br/><br/>
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+## 🧑‍💻 About Me
+
+- 🎬 Pipeline Developer at **Lotchi**, Paris
+- 🎓 ESMA graduate — CG & VFX
+- 🐍 Python enthusiast — automating everything in sight
+- 🖥️ Tools of the trade: **Nuke** · **Maya** · **RenderMan** · **Houdini**
+- 🎞️ Passionate about cinematography, grain, and anamorphic glass
+- 🔧 Building tools & pipelines that keep artists in the flow
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeoChabrier&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoChabrier&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeoChabrier&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+<!-- SOCIAL -->
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leochabrier/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:leo.chabrier@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/LeoChabrier">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
