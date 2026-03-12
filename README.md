@@ -16,12 +16,12 @@
 <!-- ABOUT ME -->
 ## 🧑‍💻 About Me
 
-- 🎬 Pipeline Developer at **Lotchi**, Paris
-- 🎓 ESMA graduate — CG & VFX
-- 🐍 Python enthusiast — automating everything in sight
-- 🖥️ Tools of the trade: **Nuke** · **Maya** · **RenderMan** · **Houdini**
-- 🎞️ Passionate about cinematography, grain, and anamorphic lenses
-- 🔧 Building tools & pipelines that keep artists in the flow
+- Pipeline Developer at **Lotchi**, Paris
+- ESMA graduate — CG & VFX
+- Python enthusiast — automating everything in sight
+- Tools of the trade: **Nuke** · **Maya** · **RenderMan** · **Houdini** · **USD Prospect**
+- Passionate about cinematography, grain, and anamorphic lenses
+- Building tools & pipelines that keep artists in the flow
 
 ---
 
