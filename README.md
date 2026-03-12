@@ -5,7 +5,8 @@
 
   <br/><br/>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi, there !+I'm+Léo 😎" alt="Typing SVG" /></a>
   <br/>
   <sub>ESMA Family, i love grain, anamorphic lenses & Python overkilled automations.</sub>
   <br/><br/>
+
