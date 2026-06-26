@@ -16,7 +16,7 @@
 <!-- ABOUT ME -->
 ## 🧑‍💻 About Me
 
-- Pipeline Developer at **Lotchi**, Paris
+- Freelance Pipeline Developer based in Paris
 - ESMA graduate — CG & VFX
 - Python enthusiast — automating everything in sight
 - Tools of the trade: **Nuke** · **Maya** · **RenderMan** · **Houdini** · **USD prospect**
