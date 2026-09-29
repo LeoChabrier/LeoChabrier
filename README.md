@@ -15,11 +15,11 @@
 
 <!-- ABOUT ME -->
 ## 🧑‍💻 About Me
-
-- Freelance Pipeline Developer based in Paris
-- ESMA graduate — CG & VFX
+- I've been working for 3 years with studios like Add Fiction/Lotchi Studio/Miraculous Corp/WB Immersive/Irrationnal TV.
+- Freelance Pipeline Developer based in Paris, France
+- ESMA graduate 2023 — CG & VFX
 - Python enthusiast — automating everything in sight
-- Tools of the trade: **Nuke** · **Maya** · **RenderMan** · **Houdini** · **USD prospect**
+- Tools of the trade: **Nuke** · **Maya** · **RenderMan** · **Houdini** · **USD**
 - Passionate about cinematography, grain, and anamorphic lenses
 - Building tools & pipelines that keep artists in the flow
 
