@@ -4,7 +4,7 @@
   <img src="https://github.com/LeoChabrier/LeoChabrier/blob/main/langor.png" width="500"/>
 
   <br/><br/>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=&color=4FFBD4E4&center=true&vCenter=true&random=true&width=435&lines=Hey+there+!+I'm+L%C3%A9o.%F0%9F%A4%93;Pipeline+Developer+based+in+Paris.;VFX+%7C+Feature Film+%7C+Series+%7C+Commercials+%7C+Video Mapping+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=&color=4FFBD4E4&center=true&vCenter=true&random=true&width=435&lines=Hey+there+!+I'm+L%C3%A9o.%F0%9F%A4%93;Pipeline+Developer+based+in+Paris.;VFX+%7C+FeatureFilm+%7C+Series+%7C+Commercials+%7C+VideoMapping+" alt="Typing SVG" /></a>
   <br/>
   <sub>ESMA Family, i love grain, anamorphic lenses, motion blur & Python overkilled automations.</sub>
   <br/><br/>
