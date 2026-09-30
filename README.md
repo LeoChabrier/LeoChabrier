@@ -15,13 +15,21 @@
 
 <!-- ABOUT ME -->
 ## 🧑‍💻 About Me
-- I've been working for 3 years with studios like Add Fiction/Lotchi Studio/Miraculous Corp/WB Immersive/Irrationnal TV.
 - Freelance Pipeline Developer based in Paris, France
 - ESMA graduate 2023 — CG & VFX
 - Python enthusiast — automating everything in sight
 - Tools of the trade: **Nuke** · **Maya** · **RenderMan** · **Houdini** · **USD**
 - Passionate about cinematography, grain, and anamorphic lenses
 - Building tools & pipelines that keep artists in the flow
+
+---
+
+<!-- Past experiences -->
+- Add Fiction -> https://addfiction.com/
+- Lotchi Studio -> https://www.lotchi.live/
+- WB Immersive ->  https://www.wb-immersive.com/
+- Miraculous Corp -> https://miraculous.com/
+
 
 ---
 
